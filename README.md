@@ -7,12 +7,8 @@ FPDF文档
 FPDI手册
 1. https://manuals.setasign.com/fpdi-manual/
 
-
-
-相关网页
-1. http://justcoding.iteye.com/blog/2163069
-2. http://www.cnblogs.com/lh460795/p/9634982.html
-
 注：中文不乱码 
 
 使用场景：合同签字
+
+更新：原来有与类名相同的构造方法 FPDF改为构造函数,兼容PHP7+
